@@ -1,11 +1,19 @@
-[{
- 		"id": 1,
- 		"username": "tea",
- 		"password": "tea"
- 	}, {
- 		"id": 2,
- 		"username": "dasti",
- 		"password": "dasti"
- 	}
-
- ]
+{
+   "users":[
+      {
+         "id":1,
+         "username":"hello",
+         "password":"hello"
+      }
+   ],
+   "events":[
+      {
+         "name":"hashcode",
+         "place":"Belgrade"
+      },
+      {
+         "name":"hashcode",
+         "place":"Belgrade"
+      }
+   ]
+}
