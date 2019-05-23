@@ -8,12 +8,16 @@
    ],
    "events":[
       {
+         "id": 1,
          "name":"hashcode",
-         "place":"Belgrade"
+         "location":"Belgrade",
+         "date": "02.03.2018."
       },
-      {
-         "name":"hashcode",
-         "place":"Belgrade"
+      {  
+         "id": 2,
+         "name":"hashcode2",
+          "location":"Belgrade",
+         "date": "02.03.2018."
       }
    ]
 }
