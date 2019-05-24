@@ -2,6 +2,15 @@
    "users":[
       {
          "id":1,
+         "name": "Teodora",
+         "surname": "Mitrovic",
+         "username":"hello",
+         "password":"hello"
+      },
+      {
+         "id":2,
+          "name": "Velimir",
+         "surname": "Mitrovic",
          "username":"hello",
          "password":"hello"
       }
