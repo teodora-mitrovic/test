@@ -25,5 +25,23 @@
          "description": "Description about this event",
          "language": "english"
       }
+   ],
+    "projects":[
+      {
+         "id": 1,
+         "name":"hashcode",
+         "location":"Belgrade",
+         "date": "02.03.2018.",
+         "description": "Description about this event",
+         "language": "english"
+      },
+      {  
+         "id": 2,
+         "name":"hashcode2",
+          "location":"Belgrade",
+         "date": "02.03.2018.",
+         "description": "Description about this event",
+         "language": "english"
+      }
    ]
 }
