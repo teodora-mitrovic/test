@@ -27,7 +27,15 @@
          "surname": "Mitrovic",
          "username":"hello",
          "password":"hello"
+      },
+      {
+         "id":5,
+          "name": "Ivana",
+         "surname": "Mitrovic",
+         "username":"hello",
+         "password":"hello"
       }
+      
    ],
    "events":[
       {
