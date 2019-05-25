@@ -13,6 +13,20 @@
          "surname": "Mitrovic",
          "username":"hello",
          "password":"hello"
+      },
+      {
+         "id":3,
+          "name": "Duca",
+         "surname": "Mitrovic",
+         "username":"hello",
+         "password":"hello"
+      },
+      {
+         "id":4,
+          "name": "Ivana",
+         "surname": "Mitrovic",
+         "username":"hello",
+         "password":"hello"
       }
    ],
    "events":[
